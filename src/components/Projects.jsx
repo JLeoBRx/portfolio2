@@ -37,12 +37,7 @@ export const projects = [
     image: "projects/loader.jpg",
     description: "Criação de experiência gamificada.",
   },
-  {
-    title: "Segurança no Trabalho",
-    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
-    image: "projects/loader.jpg",
-    description: "Criação de experiência gamificada.",
-  },
+
 ];
 
 const Project = (props) => {

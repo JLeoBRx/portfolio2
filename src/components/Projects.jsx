@@ -14,13 +14,13 @@ export const projects = [
     description: "Criação de experiência Gamificada.",
   },
   {
-    title: "Portfolio Baking",
+    title: "BNCC Gamificada",
     url: "https://www.youtube.com/watch?v=YkHqpqJgLKw",
     image: "projects/baking.jpg",
     description: "Learn how to bake a 3D model with Blender and use it in r3f",
   },
   {
-    title: "3D Avatar",
+    title: "Signa IA",
     url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
     image: "projects/avatar.jpg",
     description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
@@ -33,6 +33,12 @@ export const projects = [
   },
   {
     title: "Casa do Dragão - HBO",
+    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
+    image: "projects/loader.jpg",
+    description: "Criação de experiência gamificada.",
+  },
+  {
+    title: "Segurança no Trabalho",
     url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
     image: "projects/loader.jpg",
     description: "Criação de experiência gamificada.",

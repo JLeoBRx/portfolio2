@@ -8,10 +8,10 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "Wawatmos",
+    title: "Cidade de Deus - HBO",
     url: "https://r3f-wawatmos-final.vercel.app/",
     image: "projects/wawatmos.jpg",
-    description: "Recreating the Atmos Awwwards website with React Three Fiber",
+    description: "Criação de experiência Gamificada.",
   },
   {
     title: "Portfolio Baking",
@@ -26,16 +26,16 @@ export const projects = [
     description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
   },
   {
-    title: "Kanagame",
+    title: "Simuladores na Educação",
     url: "https://www.youtube.com/watch?v=zwNF1-lsia8",
     image: "projects/kanagame.jpg",
-    description: "Use React Three Fiber to create a 3D game",
+    description: "Simulador de máquinas agrícolas",
   },
   {
-    title: "Loader",
+    title: "Casa do Dragão - HBO",
     url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
     image: "projects/loader.jpg",
-    description: "Create a loading screen for your r3f projects",
+    description: "Criação de experiência gamificada.",
   },
 ];
 
